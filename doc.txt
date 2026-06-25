@@ -1,0 +1,4 @@
+type data convernion
+int op int
+float op float
+int op float 
