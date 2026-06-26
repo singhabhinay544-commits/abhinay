@@ -64,15 +64,16 @@ else {
 
 conditional operators
 Ternary
-condition? doSomething if TRUE : doSomething if FALSE 
+condition? doSomething if TRUE :
+doSomething if FALSE
 
-switch
-swith(number) {
-  case C1: //do something
-          break;
-  case C2: // do something
-          break;
-  default: // do something
+    switch swith(number)
+{
+case C1: // do something
+  break;
+case C2: // do something
+  break;
+default: // do something
 }
 
 switch Properties
@@ -98,4 +99,8 @@ git status
 
  commit - it is the record of change
  git commit -m "message" 
- 
+
+ PUSH COMMAND
+git push - it is used to upload local repository content to a remote repository
+FOR PUSHING COMMAND IS 
+git push origin main 
